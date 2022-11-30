@@ -1,0 +1,9 @@
+.catalog__list {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 20px;
+}
+.catalog_item img {
+	width: 100%;
+	height: auto;
+}
