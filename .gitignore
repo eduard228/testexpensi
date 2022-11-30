@@ -1,0 +1,34 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.vscode
+
+# Thumbnails
+._*
+
+# Application specific files
+node_modules
+.sass-cache
+test.html
+
+/bitrix/backup
+/bitrix/cache
+/bitrix/crontab
+/bitrix/managed_cache
+/bitrix/managed_flags
+/bitrix/modules/*.log
+/bitrix/php_interface/crontab
+/bitrix/php_interface/dbconn.php
+/bitrix/stack_cache
+/logs
+/upload
+/.gitignore
+/.htaccess
+/urlrewrite.php
+/*.log
+/*.sql
+/*.txt
+/*.xml
+/*.dt
